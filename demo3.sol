@@ -5,7 +5,7 @@ contract demo3{
 
     function getter() public pure returns(uint){
 
-        string memory str = "hello";
+        // string memory str = "hello";
 
         uint age = 10; //local variables
         
